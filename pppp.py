@@ -36,7 +36,4 @@ predictions_file.close()
 print ('All is done')
 
 
-#sndandasd
-
-
-#new dev test bwbwbbw
+print('All is done,but has one error !')
