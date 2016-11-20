@@ -120,3 +120,5 @@ def handwriterClassTest():
 
 
 handwriterClassTest()
+
+print('all id Done')
